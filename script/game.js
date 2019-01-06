@@ -23,7 +23,7 @@ const GAME_LEVELS = [
 ]
 ];
 
-const scale = 50;
+const scale = 20;
 const maxStep = 0.05;
 const wobbleSpeed = 8;
 const wobbleDist = 0.07;
