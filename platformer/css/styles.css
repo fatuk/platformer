@@ -7,7 +7,7 @@
   padding: 0;
 }
 .lava { 
-  background: rgb(255, 100, 100);
+  background: rgb(255, 124, 63);
 }
 .wall { 
   background: white;
@@ -19,14 +19,14 @@
   background: rgb(241, 229, 89);
 }
 .player {
-  background: rgb(64, 64, 64);
+  background: rgba(255, 216, 172, 0.979);
 }
 .strangeness {
   background: rgb(187, 53, 142);
 }
 
 .lost .player {
-  background: rgb(160, 64, 64);
+  background: rgb(200, 124, 63);
 }
 .won .player {
   box-shadow: -4px -7px 8px white, 4px -7px 8px white;
