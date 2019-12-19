@@ -22,6 +22,17 @@ const GAME_LEVELS = [
   '                                         '
 ],
 [
+'                                                        ',
+'                                                        ',
+'  x =                                                 x ',
+'  x      |              o           o                 x ',
+'  x @      xxxxx o     xxxxx    xxxxx       |         x ',
+'  xxxxx          xx                       xxxx      o x ',
+'      x!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!xxxx ',
+'      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    ',
+'                                                        '
+],
+[
   '                                                                                                                                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
   '                                                                                                                                                      xxxxxxxxxxxxxxxxxx      o    x',
   '                                                                                                                                                      xxxxxxxxxxxxxxxxxx           x',
