@@ -20,6 +20,53 @@ const GAME_LEVELS = [
   '      x!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!x  ',
   '      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  ',
   '                                         '
+],
+[
+'                                                        ',
+'                                                        ',
+'  x =                                                 x ',
+'  x      |              o           o                 x ',
+'  x @      xxxxx o     xxxxx    xxxxx       |         x ',
+'  xxxxx          xx                       xxxx      o x ',
+'      x!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!xxxx ',
+'      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    ',
+'                                                        '
+],
+[
+  '                                                                                                                                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+  '                                                                                                                                                      xxxxxxxxxxxxxxxxxx      o    x',
+  '                                                                                                                                                      xxxxxxxxxxxxxxxxxx           x',
+  '  v       o                                                               v                                                    |           v          xxxxxxxxxxxxxxxxxxxxxx       x',
+  '  v     xxxxx         |            |    o              |                  v                         xxx                                xx  x      xxxxxxxxxxxxxxxxxxxxxx           x',
+  '  x             xxxxx        @        xxxxx                          o                           v                xxxx            xx       x          xxxxxxxxxxxxxxxxxx        xxxx',
+  '  x =                     xxxxxxx                          =       xxxxx                 o       v        o                               =x          xxxxxxxxxxxxxxxxxx           x',
+  '  x  o         o                                  o       xxxxx                                  v     xxxxxxx             xxx             x          xxxxxxxxxxxxxxxxxxxxxx       x',
+  '  xxxxxx     xxxxx                              xxxxx                        xxxxxxx    xxx    xxxxx                                       xxxx       xxxxxxxxxxxxxxxxxx           x',
+  '  x!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!x          xxxxxxxxxxxxxxxxxx           x',
+  '  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      xxxxxxxxxxxxxxxxxxxxxx        xxxx',
+  '  x                                                                                                                        |              x           xxxxxxxxxxxxxxxxxx           x',  
+  '  x                  v                                                                                                                    x           xxxxxxxxxxxxxxxxxxxxxxx      x',
+  '  x                                                              |       |       |       |                                                x     =xxxxxx                            x',
+  '  x=                                                                                                   x                                                                        xxxx',
+  '  x                                         xxxxx=                                                                                                              xxxxxxxx           x',
+  '  x  o      xxxx                      xxx                   xxx     xxx     xxx     xxx     xxxxx             xxx                              =xxxxxxxxxxxxxxxxx                  x',
+  '  xxxxxxx          xxxxx     xxxxxx                 xxxxx                                            xxxxx        xxxxxxx     xxxxxxx  xx  xx         xxxxxxxxxxx o               =x',
+  '  x!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!xxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+  '                                                                                                                                                                                    '
+],
+[
+  '                                                                                    ',
+  '                                                                                    ',
+  '                                                                                    ',
+  '                                                                                    ',
+  '  x=            v                                                         v      =x ',
+  '  x=                             o                                               =x ',
+  '  x=                         o   x                               xxx             =x ',
+  '  x=                     o   x   x                xxx      o              o      =x ',
+  '  x=                     x   x   x       x               xxxxx          xxxxx    =x ',
+  '  x=  @                  x   x   x!!!!!!!x!!!!!x!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!x ',
+  '  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ',
+  '                                                                                    '
 ]
 ];
 
